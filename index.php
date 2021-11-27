@@ -63,6 +63,7 @@ function getLiturgicalYearNumbers($year, $month, $day)
  ?><!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=400, initial-scale=1">
 <title>WhatYear.is/it/</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZRBMZ21RZV"></script>
