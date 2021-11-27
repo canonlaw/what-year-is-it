@@ -1,0 +1,38 @@
+.notyear {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 60pt;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+		color: grey;
+}
+
+.notyearinfo {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20pt;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+		color: grey;
+}
+
+.year {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 120pt;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+}
+
+.yearinfo {
+    display: inline-block;
+
+    font-weight: bold;
+    font-size: 20pt;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+}
+
+body {
+    text-align: center;
+}
