@@ -38,7 +38,7 @@ function getLiturgicalYearNumbers($year, $month, $day)
 	if ($litYear % 2)
 		$daily = "1";
 	else
-	  $daily = "2";
+		$daily = "2";
 
 	//If the sum of the digits of the year are
 	// divisible by three, it's year C
