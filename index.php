@@ -1,5 +1,4 @@
 <?php
-date_default_timezone_set('Asia/Hong_Kong');
 date_default_timezone_set('UTC');
 
 function getFirstSundayOfAdvent($year)
