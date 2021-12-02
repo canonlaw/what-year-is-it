@@ -1,0 +1,22 @@
+{
+    "name": "canonlaw/what-year-is-it",
+    "description": "A website to display the current liturgical year.",
+    "type": "project",
+    "require-dev": {
+        "yoast/phpunit-polyfills": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fr. Paul Hedman",
+            "email": "webmaster@canonlaw.ninja"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "test": [
+            "@composer install",
+            "phpunit"
+        ]
+    }
+}
